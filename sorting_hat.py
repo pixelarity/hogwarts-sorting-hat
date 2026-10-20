@@ -2,4 +2,5 @@ print("Welcome to the Hogwarts Sorting Hat")
 
 bravery = input("Are you brave? ")
 
-print(bravery)
+if bravery == "yes":
+    print("You belong in Gryffindor!")
