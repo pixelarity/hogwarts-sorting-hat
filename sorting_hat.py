@@ -18,3 +18,11 @@ loyalty = int(input("On a scale of 1-10, how loyal are you? "))
 
 if bravery >= 7 and loyalty >= 7:
     print("You are a true Gryffindor or Hufflepuff!")
+
+# ASCII art of a cat
+print("""
+      /\_____/\
+     (  o   o  )
+     \  > ^ <  /
+      \_______/
+""")
